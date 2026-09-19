@@ -23,7 +23,7 @@ A regression project predicting home sale prices from property features (square 
 | Linear Regression | ~15,350 | ~19,250 | 0.924 |
 | Random Forest | ~17,950 | ~22,450 | 0.897 |
 
-Square footage dominates the price signal (80% of Random Forest feature importance), followed by neighborhood quality and distance to downtown — consistent with real housing market intuition.
+Square footage dominates the price signal (80% of Random Forest feature importance), followed by neighborhood quality and distance to downtown. Consistent with real housing market intuition.
 
 ## Files
 
